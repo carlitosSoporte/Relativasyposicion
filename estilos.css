@@ -1,0 +1,27 @@
+.caja1{
+    height: 300px;
+    width: 300px;
+    background-color: blueviolet;
+    display: inline-block;  
+}
+
+.caja2{
+    height: 300px;
+    width: 300px;
+    background-color:yellowgreen;
+    display: inline-block;
+}
+
+.caja3{
+    display: inline-block;
+    height: 300px;
+    width: 300px;
+    background-color:yellowgreen;
+}
+
+.caja4{
+    display: inline-block;
+    height: 300px;
+    width: 300px;
+    background-color: blueviolet;
+}
